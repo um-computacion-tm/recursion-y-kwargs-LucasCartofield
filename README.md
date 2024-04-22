@@ -6,6 +6,6 @@ factorial: El factorial de un número entero positivo se define como el producto
 
 fibonacci: La sucesión de Fibonacci es una serie infinita de números naturales que empieza con un 0 y un 1 y continúa añadiendo números que son la suma de los dos anteriores, esta función nos permite mostrar "n" números de la serie de Fibonacci de forma recursiva, utilizando n == 0 y n == 1 como casos base.
 
-buscar_datos: función que recibe los nombres y apellidos de una persona y verifica si se encuentran dentro de la base de datos dada, retornando la llave de diccionario correspondiente a dicha persona junto con los nombres y apellidos asociadas a esta.
+buscar_datos: función que recibe los nombres y apellidos de una persona y verifica si se encuentran dentro de la base de datos dada, retornando la llave de diccionario correspondiente a los datos almacenados de dicha persona.
 
 
